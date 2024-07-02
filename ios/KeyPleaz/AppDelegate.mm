@@ -1,6 +1,7 @@
 #import "AppDelegate.h"
 
 #import "RNBootSplash.h"
+#import "ReactNativeConfig.h"
 
 #import <UserNotifications/UserNotifications.h>
 #import <RNCPushNotificationIOS.h>
